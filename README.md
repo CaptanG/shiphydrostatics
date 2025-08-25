@@ -69,15 +69,5 @@ pip install numpy pandas matplotlib scipy
 
 ---
 
-## 📘 Description
-This toolbox is designed for **ship hydrostatics and structural analysis** coursework/projects. It demonstrates how to compute **hydrostatic balance, load distribution, shear force, and bending moments** for a ship hull floating freely in calm water.  
-
-The methodology includes:
-- Interpolating hydrostatic properties from data tables  
-- Balancing buoyancy and weight through iterative trimming/sinkage  
-- Evaluating structural response via shear and bending moment curves  
-
----
-
 ## 📄 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
